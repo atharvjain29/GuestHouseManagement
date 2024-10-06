@@ -1,0 +1,53 @@
+﻿Build started 04-03-2024 02:30:06.
+     1>Project "C:\Users\proar\OneDrive\Desktop\210101021_2B_Assignment2B\Assignment2B\Assignment2B\Assignment2B.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Assignment2B.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Assignment2B.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Assignment2B.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\Microsoft.VisualBasic.PowerPacks.Vs.dll" /FU"C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp Assignment2B.cpp BookedRooms.cpp BookingBilling.cpp Checkout.cpp Complaint.cpp Housekeeping.cpp Mess.cpp RoomAvailability.cpp Signup.cpp Transport.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         Assignment2B.cpp
+         BookedRooms.cpp
+         BookingBilling.cpp
+         Checkout.cpp
+         Complaint.cpp
+         Housekeeping.cpp
+         Mess.cpp
+         RoomAvailability.cpp
+         Signup.cpp
+         Transport.cpp
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\proar\OneDrive\Desktop\210101021_2B_Assignment2B\Assignment2B\Debug\Assignment2B.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Assignment2B.BookedRooms.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.BookingBilling.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Checkout.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Complaint.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Form1.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Housekeeping.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Mess.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.RoomAvailability.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Signup.resources /ASSEMBLYRESOURCE:Debug\Assignment2B.Transport.resources /MANIFEST /ManifestFile:"Debug\Assignment2B.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\proar\OneDrive\Desktop\210101021_2B_Assignment2B\Assignment2B\Debug\Assignment2B.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Assignment2B.obj
+         Debug\BookedRooms.obj
+         Debug\BookingBilling.obj
+         Debug\Checkout.obj
+         Debug\Complaint.obj
+         Debug\Housekeeping.obj
+         Debug\Mess.obj
+         Debug\RoomAvailability.obj
+         Debug\Signup.obj
+         Debug\stdafx.obj
+         Debug\Transport.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Assignment2B.vcxproj -> C:\Users\proar\OneDrive\Desktop\210101021_2B_Assignment2B\Assignment2B\Debug\Assignment2B.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\proar\OneDrive\Desktop\210101021_2B_Assignment2B\Assignment2B\Debug\Assignment2B.exe;#1" /manifest Debug\Assignment2B.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Assignment2B.unsuccessfulbuild".
+         Touching "Debug\Assignment2B.lastbuildstate".
+     1>Done Building Project "C:\Users\proar\OneDrive\Desktop\210101021_2B_Assignment2B\Assignment2B\Assignment2B\Assignment2B.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.29
